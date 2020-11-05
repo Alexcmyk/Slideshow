@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+
 /* Reset */
 html,
 body,
@@ -183,23 +185,35 @@ body {
 }
 
 .slide-1 {
-  background-image: url(boyce_1.jpg);
+  background-image: url(./assets/boyce_1.jpg);
 }
 
 .slide-2 {
-  background-image: url(boyce_2.jpg);
+  background-image: url(./assets/boyce_2.jpg);
 }
 
 .slide-3 {
-  background-image: url(boyce_3.jpg);
+  background-image: url(./assets/boyce_3.jpg);
 }
 
 .slide-4 {
-  background-image: url(boyce_4.jpg);
+  background-image: url(./assets/boyce_4.jpg);
 }
 
 .slide-5 {
-  background-image: url(boyce_5.jpg);
+  background-image: url(./assets/boyce_5.jpg);
+}
+
+.slide-6 {
+  background-image: url(./assets/boyce_6.jpg);
+}
+
+.slide-7 {
+  background-image: url(./assets/boyce_7.jpg);
+}
+
+.slide-8 {
+  background-image: url(./assets/boyce_8.jpg);
 }
 
 .steps {
