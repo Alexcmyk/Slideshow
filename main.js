@@ -54,10 +54,12 @@ $('body').on('keydown', function(event) {
     let keyCode = event.keyCode
 
     if (keyCode == 37) {
+        clearInterval(autoSlide)
         previousSlide()
     }
 
     if (keyCode == 39) {
+        clearInterval(autoSlide)
         nextSlide()
     }
 
